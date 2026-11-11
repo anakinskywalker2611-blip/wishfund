@@ -1,0 +1,6 @@
+{
+  "name": "WISHFUND - Wishlist Barang & Tabungan",
+  "description": "Aplikasi pengelolaan wishlist dan tabungan pribadi dengan pastel aesthetic. Dream it. Plan it. Save it.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
